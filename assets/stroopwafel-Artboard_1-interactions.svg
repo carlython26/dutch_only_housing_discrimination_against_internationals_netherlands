@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="g-stroopwafel-Artboard_1-interactions-img" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.2" viewBox="0 0 1920 1080">
+  <g id="anno1">
+    <image width="4251" height="4752" transform="translate(465.84 -19.2) scale(.24)" xlink:href="stroopwafel-Artboard_1-interactions-1.png"/>
+  </g>
+  <g id="anno2">
+    <image width="4324" height="4766" transform="translate(469.2 -20.16) scale(.24)" xlink:href="stroopwafel-Artboard_1-interactions-2.png"/>
+  </g>
+  <g id="anno3">
+    <image width="3590" height="2367" transform="translate(644.88 -12) scale(.24)" xlink:href="stroopwafel-Artboard_1-interactions-3.png"/>
+  </g>
+<style>
+#g-stroopwafel-Artboard_1-interactions-img rect, #g-stroopwafel-Artboard_1-interactions-img circle, #g-stroopwafel-Artboard_1-interactions-img path, #g-stroopwafel-Artboard_1-interactions-img line, #g-stroopwafel-Artboard_1-interactions-img polyline, #g-stroopwafel-Artboard_1-interactions-img polygon { vector-effect: non-scaling-stroke; }
+</style>
+</svg>

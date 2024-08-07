@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="g-facebook-transparent-Artboard_1-interactions-img" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.2" viewBox="0 0 1920 1080">
+  <g id="anno1">
+    <image width="1170" height="1030" transform="translate(426 242.483) rotate(-8.068) scale(.715 .658)" xlink:href="../assets/room2.jpg"/>
+  </g>
+  <g id="anno2">
+    <image width="1170" height="609" transform="translate(320 430)" xlink:href="../assets/room3.jpg"/>
+  </g>
+  <g id="anno3">
+    <image width="1170" height="996" transform="translate(592 195.076) rotate(-10.194)" xlink:href="../assets/room4.jpg"/>
+  </g>
+<style>
+#g-facebook-transparent-Artboard_1-interactions-img rect, #g-facebook-transparent-Artboard_1-interactions-img circle, #g-facebook-transparent-Artboard_1-interactions-img path, #g-facebook-transparent-Artboard_1-interactions-img line, #g-facebook-transparent-Artboard_1-interactions-img polyline, #g-facebook-transparent-Artboard_1-interactions-img polygon { vector-effect: non-scaling-stroke; }
+</style>
+</svg>

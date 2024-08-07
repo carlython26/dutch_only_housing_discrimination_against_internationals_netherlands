@@ -1,0 +1,101 @@
+Dutch_only (Y/N),Link,Address,Price,M / F / X,Post_date,Language_written,Temp (Y/N)
+No,X,Bos en Lommer,1275,X,31-7-2024,Dutch,N
+No,X,Oud-West,2000,X,31-7-2024,Dutch,Y
+Yes,X,Ceintuurbaan,850-1050,M,30-7,Dutch,N
+Yes,X,Centrun,930,F,29-7,Dutch,N
+No,X,Overtoom,650,F,30-7,English,Y
+Yes,X,Kraaienest,600,X,31-7,Dutch,M
+No,X,de Pijp,775,F,31-7,Dutch,Y
+Yes,X,Baarsjes,650,X,30-7,Dutch,N
+Yes,X,Nieuw-West,780,F,29-7,Dutch,N
+No,X,Pretoriussstraat,1100,X,31-7,Dutch,Y
+No,X,Bilderdijkkade,1220,X,24-7,Dutch,N
+Yes,X,Kerkstraat,695,X,29-7,Dutch,N
+Yes,X,De Pijp,616,F,30-7,Dutch,N
+No,X,Frederik Hendrikbuurt,950,F,28-7,Dutch,N
+No,X,Rivierenbuurt,1160,M,31-7,English,Y
+Yes,X,Oost-Amstel,823,F,28-7,Dutch,N
+No,X,Rembrandtpark,750,F,29-7,Dutch,N
+No,X,Rivierenbuurt,1100,F,27-7,Dutch,N
+No,X,West,733,F,5 days ago,English,N
+No,X,Rembrandtpark,650,X,4 days ago,Both,N
+No,X,Houthavens,725,X,2 days ago,Dutch,Y
+No,X,Muiderpoort,875,M,17-7,English,N
+No,X,Czaar Peterstraat,1850,X,1 day ago,English,Y
+No,X,Science Park,1250,X,1 day ago,English,Y
+No,X,Bos en Lommer,655,X,2 days ago,English,N
+No,X,Westlandgracht,620,X,2 days ago,Dutch,N
+Yes,X,Baarsjes,745,X,3 days ago,Dutch,Y
+Yes,X,Rembrandtpark,760,F,3 days ago,Dutch,N
+No,X,Rijksmuseum,?,M,3 days ago,Dutch,Y
+No,X,Nieuw-West,850,X,3 days ago,Dutch,Y
+Yes,X,De Pijp,785,F,5 days ago,Dutch,N
+No,X,Surinameplein,975,F,4 days ago,Dutch,Y
+Yes,X,Diemerplein,925,X,5 days ago,Dutch,N
+No,X,West,733,F,5 days ago,English,N
+No,X,Beukenplein,430,M,22-7,Dutch,N
+No,X,Zeeburg,825,X,23-7,English,N
+No,X,VU,476,X,5 days ago,Dutch,N
+No,X,Rivierenbuurt,794,F,23-7,English,N
+No,X,Oost,715,X,22-7,Dutch,N
+Yes,X,Buitenveldert,700,F,23-7,Dutch,N
+No,X,Oud-Zuid,1200,F,5 days ago,Both,N
+No,X,Admiraal de Ruijterweg,880,X,6 days ago,Dutch,N
+No,X,Korte Prinsengracht,1070,X,6 days ago,Dutch,N
+No,X,De Pijp,1070,X,6 days ago,English,N
+No,X,Haarlemmerdijk,450,F,24-7,Dutch,Y
+No,X,Nieuw-West,670,X,23-7,Dutch,N
+No,X,Vondelpark,778,F,14-7,Dutch,N
+No,X,Overtoom,750,F,11-7,Dutch,N
+Yes,X,Rembrandtpark,750,F,6 days,Dutch,N
+No,X,Zuidoost,950,M,6 days,Dutch,Y
+No,X,Zuid,1245,F,6 days,English,N
+No,X,Rembrandtpark,1000,X,23-7,English,N
+No,X,IJplein,555,X,23-7,Dutch,N
+No,X,Watergraafsmeer,1150,X,23-7,Dutch,Y
+No,X,Tweede Hugo de Grootstraat,960,X,23-7,English,N
+No,X,West,800,F,19-7,Dutch,N
+No,X,Hoofddorpplein,1100,X,22-7,Dutch,N
+Yes,X,Flevopark,800,F,19-7,Dutch,N
+No,X,Buitenveldert,800,X,23-7,English,Y
+No,X,Transvaal,805,X,17-7,Dutch,N
+No,X,Prinsengracht,1300,X,17-7,English,N
+Yes,X,Amstelkwartier,1050,F,23-7,Dutch,Y
+No,X,Bullewijk,500,X,22-7,English,N
+No,X,Beethovenstraat,1300,F,22-7,Both,Y
+No,X,Watergraafsmeer,1200,X,22-7,English,N
+Yes,X,Oud-Zuid,920,F,21-7,Dutch,N
+No,X,West,600,X,19-7,Both,Y
+Yes,X,Zuidoost,630,F,15-7,Dutch,Y
+No,X,Waterlooplein,720,X,16-7,Dutch,N
+No,X,Purmerend,700,X,21-7,English,N
+No,X,Rooseveltlaan,730,X,16-7,Dutch,N
+Yes,X,Spaarndammerbuurt,825,M,14-7,Dutch,N
+Yes,X,Westlandgracht,910,M,15-7,Dutch,N
+No,X,Troelstrastraat,1000,X,19-7,English,N
+No,X,Borneo-eiland,1050,X,13-7,Both,N
+No,X,Baarsjes,1370,X,18-7,English,Y
+No,X,De Pijp,1000,X,10-6,Dutch,N
+No,X,Zuidas,1150,X,11-7,Dutch,N
+No,X,Baarsjes,1200,X,13-7,Both,N
+No,X,Elandsgracht,933,X,15-7,Dutch,N
+No,X,Wallen,750,X,11-7,Dutch,N
+No,X,Uilenstede,?,X,19-7,Dutch,N
+No,X,Uilenstede,?,X,18-7,Dutch,N
+No,X,Nieuw-West,990,X,16-7,Dutch,N
+No,X,Stadionbuurt,1100,X,14-7,Both,N
+No,X,Vondelpark,890,F,12-7,English,N
+Yes,X,Uilenstede,?,X,17-7,Dutch,Y
+No,X,Nieuw-West,450,F,15-7,Dutch,Y
+Yes,X,Buitenveldert,750,F,16-7,Dutch,Y
+Yes,X,Hoofddorpplein,995,F,17-7,Dutch,N
+Yes,X,Sloterplas,650,F,17-7,Dutch,Y
+No,X,East,1028,X,13-7,English,N
+No,X,Flevopark,1250,X,13-7,Dutch,Y
+Yes,X,Lelylaan,615,F,11-7,Dutch,N
+No,X,Bos en lommer,700,X,13-7,English,Y
+No,X,Uilenstede,?,X,17-7,Dutch,N
+Yes,X,Osdorp,715,F,12-7,Dutch,N
+No,X,Ganzenhoef,450,F,14-7,Dutch,N
+No,X,Uilenstede,400,X,15-7,Dutch,N
+No,X,Carnapstraat,710,F,13-7,Dutch,N
